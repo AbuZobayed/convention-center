@@ -1,0 +1,10 @@
+
+
+.best-sell{
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+    position: absolute;
+    left: 200px;
+    top: -10px;
+}
