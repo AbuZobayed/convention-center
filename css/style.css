@@ -8,3 +8,10 @@
     left: 200px;
     top: -10px;
 }
+.Grem-bangla-btn{
+    background-image: linear-gradient(to bottom, #fdf4fa 0%, #fdf4fa 100%);
+    color: #3f87f5;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
